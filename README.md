@@ -16,7 +16,6 @@
 
 📌 Proyectos destacados
 🔹 NutriFlow – App de nutrición con registro de calorías y recomendaciones personalizadas.
-🔹 Otro Proyecto – Breve descripción de otro proyecto relevante.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
