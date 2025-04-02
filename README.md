@@ -9,8 +9,7 @@
 🔍 Siempre aprendiendo y explorando nuevas tecnologías.
 
 🛠️ Tecnologías y herramientas
-💻 Frontend: Next.js, React, TypeScript, Tailwind CSS
-🖥️ Backend: Node.js, NestJS, Express
+💻 Next.js, React, TypeScript, Tailwind CSS, Node.js,Express
 📦 Bases de datos y almacenamiento: PostgreSQL, MongoDB
 🔐 Autenticación y seguridad: Auth0, JWT, Google Cloud
 
